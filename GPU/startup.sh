@@ -1,0 +1,1 @@
+mpirun -n 3 --machinefile machinefile python Application.py
